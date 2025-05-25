@@ -18,3 +18,5 @@
 - 커밋 히스토리: `git log --oneline`
 - 파일 내용 확인: `cat conflict_test.txt`
 - 정상 병합 완료
+
+GitHub link : https://github.com/5seonjae/git-beginner-test/tree/main/git-test4
